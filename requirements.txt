@@ -1,0 +1,9 @@
+streamlit
+pandas
+folium
+streamlit-folium
+sentence-transformers
+deep-translator
+streamlit-mic-recorder
+fpdf2
+SpeechRecognition
